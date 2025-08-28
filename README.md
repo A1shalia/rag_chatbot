@@ -14,3 +14,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+## RAG Chatbot Response
+![Alt text](images/smart_chatbot_response.png)
